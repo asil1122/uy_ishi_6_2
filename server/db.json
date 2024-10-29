@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$znIGs87kRB0TaHDRHE6sIOFuz4MV7xeK1w5jZoQ4m1l7DhkRCuDhu",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "ramer17845@duiter.com",
+      "password": "$2a$10$t6Bzo85tznlbC6gCIuRFpu44wOERku9KwFLGzCF6V0iafHRSvV//y",
+      "name": "Abdurahmon",
+      "id": 2
+    },
+    {
+      "email": "abdurahmon97v@gmail.com",
+      "password": "$2a$10$J/uuBR7mWy4shVrJ7pBHJ.t3su3/ZWglFjKd6vLfStQbpLkZwlvTS",
+      "name": "Abdurahmon2",
+      "id": 3
+    },
+    {
+      "email": "asilbekabdurashidov000@gmail.com",
+      "password": "$2a$10$pNWpqRJ24Mqm65v5iVbRJepabzvjBI4VU.fYcJhwuLkD33gCtJysK",
+      "name": "asil",
+      "id": 4
+    },
+    {
+      "email": "aaaaaa0100111@gmail.com",
+      "password": "$2a$10$2yCX8fFvKti1SFnPfeR5DeGTli..sAU8kJRDiKPjbujIWDbmi9YMe",
+      "name": "Aziz",
+      "id": 5
+    },
+    {
+      "email": "aasilbek0077@gmail.com",
+      "password": "$2a$10$N9ggru56qlV4l.7zaUT5IufGIFRZwsSgFtpYh3pgGErRko3BszZme",
+      "name": "Asilbek",
+      "id": 6
+    }
+  ],
+  "messages": []
+}
